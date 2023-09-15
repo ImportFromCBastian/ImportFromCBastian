@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ImportFromCBastian/ImportFromCBastian/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/ImportFromCBastian/ImportFromCBastian/blob/output/github-contribution-grid-snake2.svg)
 
 ###
