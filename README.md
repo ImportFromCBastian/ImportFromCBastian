@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/ImportFromCBastian/ImportFromCBastian/blob/output/github-contribution-grid-snake2.svg)
-
 ###
