@@ -47,11 +47,11 @@ Feel free to check out my projects or reach out always happy to collaborate or c
 
 ## 📊 GitHub Stats
 
-[![GitHub Commits](https://github-readme-stats.vercel.app/api?username=ImportFromCBastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)]
+[![GitHub Commits](https://github-readme-stats.vercel.app/api?username=ImportFromCBastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/ImportFromCBastian)
 
-[![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=ImportFromCBastian&theme=dark&hide_border=false)]
+[![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=ImportFromCBastian&theme=dark&hide_border=false)](https://github.com/ImportFromCBastian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImportFromCBastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImportFromCBastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/ImportFromCBastian)
 
 ### 🔝 Top Contributed Repo
 
